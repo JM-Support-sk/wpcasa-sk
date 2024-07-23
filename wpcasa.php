@@ -44,7 +44,7 @@ class WPSight_Framework {
     public $meta_boxes;
     public $admin_map_ui;
     public $listings_map;
-
+    public $ninja_forms;
     /**
      *	Constructor - get the plugin hooked in and ready
      */
